@@ -1,0 +1,15 @@
+C:\Users\вероника\Documents\GavV\bin\Debug\net10.0\GavV.exe
+C:\Users\вероника\Documents\GavV\bin\Debug\net10.0\GavV.deps.json
+C:\Users\вероника\Documents\GavV\bin\Debug\net10.0\GavV.runtimeconfig.json
+C:\Users\вероника\Documents\GavV\bin\Debug\net10.0\GavV.dll
+C:\Users\вероника\Documents\GavV\bin\Debug\net10.0\GavV.pdb
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.AssemblyInfoInputs.cache
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.AssemblyInfo.cs
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.csproj.CoreCompileInputs.cache
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.sourcelink.json
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.dll
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\refint\GavV.dll
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.pdb
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\GavV.genruntimeconfig.cache
+C:\Users\вероника\Documents\GavV\obj\Debug\net10.0\ref\GavV.dll
