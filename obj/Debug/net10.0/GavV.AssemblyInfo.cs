@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GavV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c145291b118e76a36327a9de7f90ddcb9f0afb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761fd1cb034eb96df45172db2fdb4a50ee9f129e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GavV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GavV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
